@@ -38,14 +38,14 @@ It is also a place I use to showcase the fruits of my labors.
   
   • Current Primary Projects: 
   
-     Working with NumPy, Pandas, matplotlib on various data sets to improve fluency with those libraries. [LINK TO REPO COMING SOON™]
+     Working with NumPy, Pandas, matplotlib on various data sets to improve fluency with those libraries.
      Working on an Android app that uses Google Maps API. Main purpose is to improve knowledge of how to use APIs as well as improve
-     Android app dev knowledge. [LINK TO REPO COMING SOON™]
+     Android app dev knowledge.
      
-  • Current Side Project:
+  • Current Side Projects:
   
     Setting up Kali NetHunter on Android Mobile Device running LineageOS
     Experimenting with Pen-testing using a smart phone.
-    Learning the basics about Networks and how to intercept and understand information sent across WiFi networks. 
+    Learning the basics about Networks and how to intercept and understand information sent across WiFi networks (Legally with consent). 
      
      
