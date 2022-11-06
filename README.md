@@ -43,7 +43,8 @@ ferncancode.github.io
   
      Currently working on a piece of software through Purdue University's The Data Mine, in partnership with John Deere.
      The software utilizes machine learning, computer vision, geospatial data analysis, image data analysis, REST API, and more.
-     The software will have applications for wild life conservation, and more specifically, the identification of land that would be ideal for wild life conservation.      Currently there is no public repo for the project, however, the project will be presented in a public forum at the end of the Spring 2023 semester, so stay tuned! 
+     The software will have applications for wild life conservation, and more specifically, the identification of land that would be ideal for wild life conservation.
+     Currently there is no public repo for the project, however, the project will be presented in a public forum at the end of the Spring 2023 semester, so stay tuned! 
      
   • Current Side Projects:
   
