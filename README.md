@@ -17,24 +17,12 @@ ferncancode.github.io
   
   • Pronouns: He/Him
 
-  • Senior at University of Texas at San Antonio
-  
-  • Class of 2023
-  
-  • Major: Computer Science
-  
-  • Concentration: Data Science
+  • Bachelor of Science Computer Science
   
   • Primary Interests: 
   
     Data Science 
     Machine Learning and Deep Learning 
-    
-  
-  • Current Goals: 
-    
-    Continue improving my fluency in Python and my applied ML skillset
-    Continue improving my Data Engineering skillset
     
     
   ⚒💻 What I've been working on:
