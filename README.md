@@ -6,7 +6,6 @@ This GitHub is a tool I use to help improve my understanding of various Computer
 
 It is also a place I use to showcase the fruits of my labors. 
 
-For an easier to navigate experience, my github.io can be found here: 
 
 
 
