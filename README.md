@@ -16,27 +16,36 @@ It is also a place I use to showcase the fruits of my labors.
   
   • Pronouns: He/Him
 
-  • Bachelor of Science Computer Science
+  • Bachelor of Science - Computer Science
+
+  • Master of Science - Artificial Intelligence (Fall 2025)
   
   • Primary Interests: 
   
     Data Science 
     Machine Learning and Deep Learning 
+    Natural Language Processing
+    Computer Vision
     
     
   ⚒💻 What I've been working on:
   
   • Current Primary Projects: 
   
-     Currently working on a piece of software through Purdue University's The Data Mine, in partnership with John Deere.
-     The software utilizes machine learning, computer vision, geospatial data analysis, image data analysis, REST API, and more.
-     The software will have applications for wild life conservation, and more specifically, the identification of land that would be ideal for wild life conservation.
-     Currently there is no public repo for the project, however, the project will be presented in a public forum at the end of the Spring 2023 semester, so stay tuned! 
+   ---Natural Language Processing
+   
+     Currently working on Natural Language Processing through Purdue University's The Data Mine and the Center for C-SPAN Scholarship and Education
+     The project aims to analyze over 230,000 hours of video in order to determine whether congresional rhetoric has become more polarized over time.
+     A comprehensive project summary with all relevant work and findings will be made available in early 2024.
+     
+   ---Computer Vision
+     
+   ---Reinforcement Learning
+       
+     Currently working on creating an intelligent agent to play the game of Reversi using reinforcement learning. 
      
   • Current Side Projects:
   
-    Music generation utilizing a GAN. Current working name for the project is 'DJ.Artificial'.
-    Project is currently still in the data collection and preprocessing phase.
-    GitHub for project will be created and linked here once the project enters the training and testing phase.
+    
      
      
