@@ -48,7 +48,7 @@ A research project (UTSA) that predicts the geographic coordinates of a tweet **
 
 ## Skills
 
-**Languages:** Python · C++ · Java · SQL · JavaScript · Dart · Bash
+**Languages:** Python · Java · SQL · JavaScript · Dart · Bash
 
 **ML / AI:** Deep Learning · Natural Language Processing · Computer Vision · Reinforcement Learning · Retrieval-Augmented Generation (RAG) · LLM Agents
 
