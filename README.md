@@ -28,7 +28,7 @@ Analyzes weightlifting form (squat, deadlift) from a single phone video and deci
 ### [Reversi AI Agent](https://github.com/FernCanCode/reversi-ai-project) — 1st place (x2)
 `Python` · `Monte-Carlo Tree Search` · `Alpha-Beta Pruning` · `Deep Learning` · `Bitboards`
 
-A Reversi-playing agent combining Monte-Carlo Tree Search, alpha-beta pruning, and an AlphaZero-style deep-learning player. It took **first place in both competitions** in my graduate AI course. The key performance unlock was a **bitboard** board representation (my contribution) — the board encoded as 64-bit integers with bitwise move generation, JIT-compiled with Numba — which made search fast enough to reach far greater depth within the per-move time limit. *(Team project.)*
+A Reversi-playing agent combining Monte-Carlo Tree Search, alpha-beta pruning, and an AlphaZero-style deep-learning player. It took **first place in both competitions** in my graduate AI course. The key performance unlock was a **bitboard** board representation — the board encoded as 64-bit integers with bitwise move generation, JIT-compiled with Numba — which made search fast enough to reach far greater depth within the per-move time limit. *(Team project.)*
 
 ### [Post2Place](https://github.com/FernCanCode/Post2Place)
 `Python` · `NLP` · `Transformer Embeddings` · `PyTorch` · `Geospatial ML`
